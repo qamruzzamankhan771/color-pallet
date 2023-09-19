@@ -1,0 +1,2 @@
+#root,.app-container,body,html{height:100%;margin:0;padding:0;width:100%}body{background-color:#fff;background-color:var(--background-color,#fff);text-align:center}.app-container,body{align-items:center;display:flex;flex-direction:column;font-size:18px}.app-container{z-index:1}.app-container,.slider-container{justify-content:center;width:100%}.slider-container{display:flex}.app-title{font-size:2rem;margin-bottom:1rem}.color-display{margin-top:1rem}
+/*# sourceMappingURL=main.66623d22.css.map*/
